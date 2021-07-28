@@ -50,6 +50,7 @@ Finalmente, vá para [localhost: 3000](http://localhost:3000) no navegador de su
 - [x] Next.js
 - [x] Typescript
 - [x] Framer-Motion
+- [x] Tailwind
 - [x] API Steam
 ## Estrutura do Projeto 🏗
 
