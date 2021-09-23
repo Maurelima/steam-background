@@ -290,16 +290,6 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.0.6.tgz#023d72a5c4531b4ce204528971700a78a85a0c50"
   integrity sha512-Myxw//kzromB9yWgS8qYGuGVf91oBUUJpNvy5eM50sqvmKLbKjwLxohJnkWGTeeI9v9IBMtPLxz5Gc60FIfvCA==
 
-"@sweetalert2/theme-dark@^5.0.2":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@sweetalert2/theme-dark/-/theme-dark-5.0.2.tgz#dc1753fe9272a5d9ad276b15f09513e3d332ab87"
-  integrity sha512-OboaclPhXLz8LPofjBlaxCq8Bs/N9IR7l4dleFlj7czVDd3zfw/ghU92cJb//AkLKmsdt849xoycSnShV41LdA==
-
-"@sweetalert2/themes@^5.0.2":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@sweetalert2/themes/-/themes-5.0.2.tgz#ba58f8b4149186269951326f973ee55a674e0b4b"
-  integrity sha512-6bJZqpVQldGIvrm6WPukX/Mheqww++YAaykzs7uA83LohfLDhHinLg/lMQJI1QVUCg6wpc/M6M1m8ilG+RVJ4g==
-
 "@trysound/sax@0.1.1":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.1.1.tgz#3348564048e7a2d7398c935d466c0414ebb6a669"
@@ -2877,9 +2867,9 @@ normalize-range@^0.1.2:
   integrity sha1-LRDAa9/TEuqXd2laTShDlFa3WUI=
 
 nth-check@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/nth-check/-/nth-check-2.0.0.tgz#1bb4f6dac70072fc313e8c9cd1417b5074c0a125"
-  integrity sha512-i4sc/Kj8htBrAiH1viZ0TgU8Y5XqCaV/FziYK6TBczxmeKm3AEFWqqF3195yKudrarqy7Zu80Ra5dobFjn9X/Q==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/nth-check/-/nth-check-2.0.1.tgz#2efe162f5c3da06a28959fbd3db75dbeea9f0fc2"
+  integrity sha512-it1vE95zF6dTT9lBsYbxvqh0Soy4SPowchj0UBGj/V6cTPnXXtQOPUbhZ6CmGzAD/rW22LQK6E96pcdJXk4A4w==
   dependencies:
     boolbase "^1.0.0"
 
@@ -4001,16 +3991,6 @@ svgo@^2.0.3:
     css-tree "^1.1.2"
     csso "^4.2.0"
     stable "^0.1.8"
-
-sweetalert2-react-content@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/sweetalert2-react-content/-/sweetalert2-react-content-4.1.1.tgz#89664f11bd39d804db61576e2c5161584b51b80b"
-  integrity sha512-64PMraASSMo/0CkNhNn6sjjrUqdS8L1IFgOT3rERIN2tJd66p7I78e8LdomwRjsuN5LIE4eqTSpPK9f8o4QNvg==
-
-sweetalert2@^11.0.20:
-  version "11.0.20"
-  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-11.0.20.tgz#c0bbd379f6fc929025fc66c08cc8b8f1af76aa9c"
-  integrity sha512-htNVn/7IDNfqSLo8m50s0Y7FkgAjng7NnQbvi5p1e4ydxByjiiNgpWhSThgiCRFYMzIaSEuOam2d4Sq9FbVyfA==
 
 table@^6.0.9:
   version "6.7.1"
